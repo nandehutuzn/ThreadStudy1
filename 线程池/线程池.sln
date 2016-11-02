@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程回调", "线程池\线程回调.csproj", "{EBCB4323-C369-40F6-A237-060C45EFBD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池异步操作", "线程池异步操作\线程池异步操作.csproj", "{B38A5CBC-43A0-47FF-B582-E1DA32A56CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池并行度", "线程池并行度\线程池并行度.csproj", "{337C0BDB-76E8-4B2D-8241-74BF9CB33DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "取消线程", "取消线程\取消线程.csproj", "{EEFBD448-05D3-42CC-BCC5-44BD57D45EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCB4323-C369-40F6-A237-060C45EFBD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCB4323-C369-40F6-A237-060C45EFBD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCB4323-C369-40F6-A237-060C45EFBD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCB4323-C369-40F6-A237-060C45EFBD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38A5CBC-43A0-47FF-B582-E1DA32A56CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38A5CBC-43A0-47FF-B582-E1DA32A56CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38A5CBC-43A0-47FF-B582-E1DA32A56CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38A5CBC-43A0-47FF-B582-E1DA32A56CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337C0BDB-76E8-4B2D-8241-74BF9CB33DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337C0BDB-76E8-4B2D-8241-74BF9CB33DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337C0BDB-76E8-4B2D-8241-74BF9CB33DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337C0BDB-76E8-4B2D-8241-74BF9CB33DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFBD448-05D3-42CC-BCC5-44BD57D45EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFBD448-05D3-42CC-BCC5-44BD57D45EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFBD448-05D3-42CC-BCC5-44BD57D45EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFBD448-05D3-42CC-BCC5-44BD57D45EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+E:\vs2013\控制台程序\多线程\同步1\同步1\bin\Debug\同步1.exe.config
+E:\vs2013\控制台程序\多线程\同步1\同步1\bin\Debug\同步1.exe
+E:\vs2013\控制台程序\多线程\同步1\同步1\bin\Debug\同步1.pdb
+E:\vs2013\控制台程序\多线程\同步1\同步1\obj\Debug\同步1.csprojResolveAssemblyReference.cache
+E:\vs2013\控制台程序\多线程\同步1\同步1\obj\Debug\同步1.exe
+E:\vs2013\控制台程序\多线程\同步1\同步1\obj\Debug\同步1.pdb

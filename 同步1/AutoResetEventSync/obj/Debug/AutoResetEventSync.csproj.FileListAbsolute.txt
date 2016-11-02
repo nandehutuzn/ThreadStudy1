@@ -1,0 +1,6 @@
+E:\vs2013\控制台程序\多线程\同步1\AutoResetEventSync\bin\Debug\AutoResetEventSync.exe.config
+E:\vs2013\控制台程序\多线程\同步1\AutoResetEventSync\bin\Debug\AutoResetEventSync.exe
+E:\vs2013\控制台程序\多线程\同步1\AutoResetEventSync\bin\Debug\AutoResetEventSync.pdb
+E:\vs2013\控制台程序\多线程\同步1\AutoResetEventSync\obj\Debug\AutoResetEventSync.exe
+E:\vs2013\控制台程序\多线程\同步1\AutoResetEventSync\obj\Debug\AutoResetEventSync.pdb
+E:\vs2013\控制台程序\多线程\同步1\AutoResetEventSync\obj\Debug\AutoResetEventSync.csprojResolveAssemblyReference.cache

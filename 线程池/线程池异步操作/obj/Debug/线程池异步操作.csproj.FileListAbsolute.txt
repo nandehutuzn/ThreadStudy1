@@ -1,0 +1,6 @@
+E:\vs2013\控制台程序\多线程\线程池\线程池异步操作\bin\Debug\线程池异步操作.exe.config
+E:\vs2013\控制台程序\多线程\线程池\线程池异步操作\bin\Debug\线程池异步操作.exe
+E:\vs2013\控制台程序\多线程\线程池\线程池异步操作\bin\Debug\线程池异步操作.pdb
+E:\vs2013\控制台程序\多线程\线程池\线程池异步操作\obj\Debug\线程池异步操作.exe
+E:\vs2013\控制台程序\多线程\线程池\线程池异步操作\obj\Debug\线程池异步操作.pdb
+E:\vs2013\控制台程序\多线程\线程池\线程池异步操作\obj\Debug\线程池异步操作.csprojResolveAssemblyReference.cache

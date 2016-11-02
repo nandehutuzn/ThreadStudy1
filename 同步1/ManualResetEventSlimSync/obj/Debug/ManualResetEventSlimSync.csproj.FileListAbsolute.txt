@@ -1,0 +1,6 @@
+E:\vs2013\控制台程序\多线程\同步1\ManualResetEventSlimSync\bin\Debug\ManualResetEventSlimSync.exe.config
+E:\vs2013\控制台程序\多线程\同步1\ManualResetEventSlimSync\bin\Debug\ManualResetEventSlimSync.exe
+E:\vs2013\控制台程序\多线程\同步1\ManualResetEventSlimSync\bin\Debug\ManualResetEventSlimSync.pdb
+E:\vs2013\控制台程序\多线程\同步1\ManualResetEventSlimSync\obj\Debug\ManualResetEventSlimSync.csprojResolveAssemblyReference.cache
+E:\vs2013\控制台程序\多线程\同步1\ManualResetEventSlimSync\obj\Debug\ManualResetEventSlimSync.exe
+E:\vs2013\控制台程序\多线程\同步1\ManualResetEventSlimSync\obj\Debug\ManualResetEventSlimSync.pdb

@@ -1,0 +1,6 @@
+E:\vs2013\控制台程序\多线程\同步1\MutexSync\bin\Debug\MutexSync.exe.config
+E:\vs2013\控制台程序\多线程\同步1\MutexSync\bin\Debug\MutexSync.exe
+E:\vs2013\控制台程序\多线程\同步1\MutexSync\bin\Debug\MutexSync.pdb
+E:\vs2013\控制台程序\多线程\同步1\MutexSync\obj\Debug\MutexSync.csprojResolveAssemblyReference.cache
+E:\vs2013\控制台程序\多线程\同步1\MutexSync\obj\Debug\MutexSync.exe
+E:\vs2013\控制台程序\多线程\同步1\MutexSync\obj\Debug\MutexSync.pdb
