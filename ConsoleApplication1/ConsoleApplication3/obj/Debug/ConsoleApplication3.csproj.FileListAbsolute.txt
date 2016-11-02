@@ -1,0 +1,5 @@
+E:\GitHub\多线程\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\GitHub\多线程\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\GitHub\多线程\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\GitHub\多线程\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\GitHub\多线程\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

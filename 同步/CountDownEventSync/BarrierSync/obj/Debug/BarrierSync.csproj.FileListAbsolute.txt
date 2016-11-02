@@ -1,0 +1,5 @@
+E:\GitHub\多线程\同步\CountDownEventSync\BarrierSync\bin\Debug\BarrierSync.exe.config
+E:\GitHub\多线程\同步\CountDownEventSync\BarrierSync\bin\Debug\BarrierSync.exe
+E:\GitHub\多线程\同步\CountDownEventSync\BarrierSync\bin\Debug\BarrierSync.pdb
+E:\GitHub\多线程\同步\CountDownEventSync\BarrierSync\obj\Debug\BarrierSync.exe
+E:\GitHub\多线程\同步\CountDownEventSync\BarrierSync\obj\Debug\BarrierSync.pdb

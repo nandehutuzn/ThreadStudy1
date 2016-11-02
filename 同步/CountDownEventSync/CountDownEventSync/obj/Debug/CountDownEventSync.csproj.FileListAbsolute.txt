@@ -1,0 +1,5 @@
+E:\GitHub\多线程\同步\CountDownEventSync\CountDownEventSync\bin\Debug\CountDownEventSync.exe.config
+E:\GitHub\多线程\同步\CountDownEventSync\CountDownEventSync\bin\Debug\CountDownEventSync.exe
+E:\GitHub\多线程\同步\CountDownEventSync\CountDownEventSync\bin\Debug\CountDownEventSync.pdb
+E:\GitHub\多线程\同步\CountDownEventSync\CountDownEventSync\obj\Debug\CountDownEventSync.exe
+E:\GitHub\多线程\同步\CountDownEventSync\CountDownEventSync\obj\Debug\CountDownEventSync.pdb

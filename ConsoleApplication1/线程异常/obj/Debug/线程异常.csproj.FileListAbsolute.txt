@@ -1,0 +1,5 @@
+E:\GitHub\多线程\ConsoleApplication1\线程异常\bin\Debug\线程异常.exe.config
+E:\GitHub\多线程\ConsoleApplication1\线程异常\bin\Debug\线程异常.exe
+E:\GitHub\多线程\ConsoleApplication1\线程异常\bin\Debug\线程异常.pdb
+E:\GitHub\多线程\ConsoleApplication1\线程异常\obj\Debug\线程异常.exe
+E:\GitHub\多线程\ConsoleApplication1\线程异常\obj\Debug\线程异常.pdb

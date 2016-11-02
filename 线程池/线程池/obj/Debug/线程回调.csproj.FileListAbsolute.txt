@@ -4,3 +4,8 @@ E:\vs2013\控制台程序\多线程\线程池\线程池\bin\Debug\线程池.pdb
 E:\vs2013\控制台程序\多线程\线程池\线程池\obj\Debug\线程回调.csprojResolveAssemblyReference.cache
 E:\vs2013\控制台程序\多线程\线程池\线程池\obj\Debug\线程池.exe
 E:\vs2013\控制台程序\多线程\线程池\线程池\obj\Debug\线程池.pdb
+E:\GitHub\多线程\Threadstudy1\线程池\线程池\bin\Debug\线程池.exe.config
+E:\GitHub\多线程\Threadstudy1\线程池\线程池\bin\Debug\线程池.exe
+E:\GitHub\多线程\Threadstudy1\线程池\线程池\bin\Debug\线程池.pdb
+E:\GitHub\多线程\Threadstudy1\线程池\线程池\obj\Debug\线程池.exe
+E:\GitHub\多线程\Threadstudy1\线程池\线程池\obj\Debug\线程池.pdb

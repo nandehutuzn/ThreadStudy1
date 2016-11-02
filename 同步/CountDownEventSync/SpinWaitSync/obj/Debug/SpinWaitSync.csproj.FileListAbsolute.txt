@@ -1,0 +1,5 @@
+E:\GitHub\多线程\同步\CountDownEventSync\SpinWaitSync\bin\Debug\SpinWaitSync.exe.config
+E:\GitHub\多线程\同步\CountDownEventSync\SpinWaitSync\bin\Debug\SpinWaitSync.exe
+E:\GitHub\多线程\同步\CountDownEventSync\SpinWaitSync\bin\Debug\SpinWaitSync.pdb
+E:\GitHub\多线程\同步\CountDownEventSync\SpinWaitSync\obj\Debug\SpinWaitSync.exe
+E:\GitHub\多线程\同步\CountDownEventSync\SpinWaitSync\obj\Debug\SpinWaitSync.pdb

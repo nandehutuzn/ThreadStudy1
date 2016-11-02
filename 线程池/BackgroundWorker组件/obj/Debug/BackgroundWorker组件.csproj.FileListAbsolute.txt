@@ -1,0 +1,5 @@
+E:\GitHub\多线程\Threadstudy1\线程池\BackgroundWorker组件\bin\Debug\BackgroundWorker组件.exe.config
+E:\GitHub\多线程\Threadstudy1\线程池\BackgroundWorker组件\bin\Debug\BackgroundWorker组件.exe
+E:\GitHub\多线程\Threadstudy1\线程池\BackgroundWorker组件\bin\Debug\BackgroundWorker组件.pdb
+E:\GitHub\多线程\Threadstudy1\线程池\BackgroundWorker组件\obj\Debug\BackgroundWorker组件.exe
+E:\GitHub\多线程\Threadstudy1\线程池\BackgroundWorker组件\obj\Debug\BackgroundWorker组件.pdb

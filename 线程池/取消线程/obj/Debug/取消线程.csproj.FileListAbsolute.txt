@@ -4,3 +4,9 @@ E:\vs2013\控制台程序\多线程\线程池\取消线程\bin\Debug\取消线�
 E:\vs2013\控制台程序\多线程\线程池\取消线程\obj\Debug\取消线程.exe
 E:\vs2013\控制台程序\多线程\线程池\取消线程\obj\Debug\取消线程.pdb
 E:\vs2013\控制台程序\多线程\线程池\取消线程\obj\Debug\取消线程.csprojResolveAssemblyReference.cache
+E:\GitHub\多线程\Threadstudy1\线程池\取消线程\bin\Debug\取消线程.exe.config
+E:\GitHub\多线程\Threadstudy1\线程池\取消线程\obj\Debug\取消线程.exe
+E:\GitHub\多线程\Threadstudy1\线程池\取消线程\obj\Debug\取消线程.pdb
+E:\GitHub\多线程\Threadstudy1\线程池\取消线程\bin\Debug\取消线程.exe
+E:\GitHub\多线程\Threadstudy1\线程池\取消线程\bin\Debug\取消线程.pdb
+E:\GitHub\多线程\Threadstudy1\线程池\取消线程\obj\Debug\取消线程.csprojResolveAssemblyReference.cache
