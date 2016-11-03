@@ -3,3 +3,9 @@ E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务并行库\bin\
 E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务并行库\bin\Debug\任务并行库.pdb
 E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务并行库\obj\Debug\任务并行库.exe
 E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务并行库\obj\Debug\任务并行库.pdb
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\任务并行库\bin\Debug\任务并行库.exe.config
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\任务并行库\bin\Debug\任务并行库.exe
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\任务并行库\bin\Debug\任务并行库.pdb
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\任务并行库\obj\Debug\任务并行库.exe
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\任务并行库\obj\Debug\任务并行库.pdb
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\任务并行库\obj\Debug\任务并行库.csprojResolveAssemblyReference.cache

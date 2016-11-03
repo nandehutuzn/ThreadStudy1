@@ -4,3 +4,9 @@ E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\基本操作\bin\Deb
 E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\基本操作\obj\Debug\基本操作.exe
 E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\基本操作\obj\Debug\基本操作.pdb
 E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\基本操作\obj\Debug\基本操作.csprojResolveAssemblyReference.cache
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\基本操作\bin\Debug\基本操作.exe.config
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\基本操作\obj\Debug\基本操作.exe
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\基本操作\obj\Debug\基本操作.pdb
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\基本操作\bin\Debug\基本操作.exe
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\基本操作\bin\Debug\基本操作.pdb
+E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\基本操作\obj\Debug\基本操作.csprojResolveAssemblyReference.cache
