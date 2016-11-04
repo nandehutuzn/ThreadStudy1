@@ -4,3 +4,8 @@ E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\APMToTPL\bin\De
 E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\APMToTPL\obj\Debug\APMToTPL.csprojResolveAssemblyReference.cache
 E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\APMToTPL\obj\Debug\APMToTPL.exe
 E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\APMToTPL\obj\Debug\APMToTPL.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\APMToTPL\bin\Debug\APMToTPL.exe.config
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\APMToTPL\obj\Debug\APMToTPL.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\APMToTPL\obj\Debug\APMToTPL.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\APMToTPL\bin\Debug\APMToTPL.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\APMToTPL\bin\Debug\APMToTPL.pdb

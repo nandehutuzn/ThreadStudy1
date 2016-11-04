@@ -1,0 +1,5 @@
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\并行运行任务\bin\Debug\并行运行任务.exe.config
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\并行运行任务\bin\Debug\并行运行任务.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\并行运行任务\bin\Debug\并行运行任务.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\并行运行任务\obj\Debug\并行运行任务.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\并行运行任务\obj\Debug\并行运行任务.pdb

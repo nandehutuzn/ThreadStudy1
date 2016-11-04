@@ -4,3 +4,8 @@ E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\组合任务\bi
 E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\组合任务\obj\Debug\组合任务.csprojResolveAssemblyReference.cache
 E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\组合任务\obj\Debug\组合任务.exe
 E:\GitHub\多线程\ThreadStudy1\任务并行库\任务并行库\组合任务\obj\Debug\组合任务.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\组合任务\bin\Debug\组合任务.exe.config
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\组合任务\bin\Debug\组合任务.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\组合任务\bin\Debug\组合任务.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\组合任务\obj\Debug\组合任务.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\组合任务\obj\Debug\组合任务.pdb

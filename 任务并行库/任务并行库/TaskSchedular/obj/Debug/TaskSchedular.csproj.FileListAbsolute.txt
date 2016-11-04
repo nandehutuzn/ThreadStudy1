@@ -1,0 +1,13 @@
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\bin\Debug\TaskSchedular.exe.config
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\TaskSchedular.csprojResolveAssemblyReference.cache
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\MainWindow.baml
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\MainWindow.g.cs
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\App.g.cs
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\TaskSchedular_MarkupCompile.cache
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\TaskSchedular.g.resources
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\TaskSchedular.Properties.Resources.resources
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\TaskSchedular.csproj.GenerateResource.Cache
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\bin\Debug\TaskSchedular.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\bin\Debug\TaskSchedular.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\TaskSchedular.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\TaskSchedular\obj\Debug\TaskSchedular.pdb

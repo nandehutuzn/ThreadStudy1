@@ -1,0 +1,5 @@
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务取消\bin\Debug\任务取消.exe.config
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务取消\bin\Debug\任务取消.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务取消\bin\Debug\任务取消.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务取消\obj\Debug\任务取消.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务取消\obj\Debug\任务取消.pdb

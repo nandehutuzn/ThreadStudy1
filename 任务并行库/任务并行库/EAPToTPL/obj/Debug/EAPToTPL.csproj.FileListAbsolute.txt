@@ -1,0 +1,5 @@
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\EAPToTPL\bin\Debug\EAPToTPL.exe.config
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\EAPToTPL\bin\Debug\EAPToTPL.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\EAPToTPL\bin\Debug\EAPToTPL.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\EAPToTPL\obj\Debug\EAPToTPL.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\EAPToTPL\obj\Debug\EAPToTPL.pdb

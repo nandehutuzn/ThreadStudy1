@@ -1,0 +1,5 @@
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务异常\bin\Debug\任务异常.exe.config
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务异常\bin\Debug\任务异常.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务异常\bin\Debug\任务异常.pdb
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务异常\obj\Debug\任务异常.exe
+E:\GitHub\Test\ThreadStudy1\任务并行库\任务并行库\任务异常\obj\Debug\任务异常.pdb
