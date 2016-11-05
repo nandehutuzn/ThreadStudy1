@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "PLINQ\PLINQ.csproj", "{54FF9F4D-6F47-4FF7-B654-F1ECED31C913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "并行化LINQ查询", "并行化LINQ查询\并行化LINQ查询.csproj", "{9C848890-3E98-4E48-A4C9-C7CDDFECB2D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "调整PLINQ查询参数", "调整PLINQ查询参数\调整PLINQ查询参数.csproj", "{A510BF7C-0969-45D7-A1D4-3D5EAF498C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ异常", "PLINQ异常\PLINQ异常.csproj", "{5BD6F18E-967D-4F87-82D5-A574846A2416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ数据分区", "PLINQ数据分区\PLINQ数据分区.csproj", "{9841F531-0545-4A7C-8A19-E26A704B27F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FF9F4D-6F47-4FF7-B654-F1ECED31C913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FF9F4D-6F47-4FF7-B654-F1ECED31C913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FF9F4D-6F47-4FF7-B654-F1ECED31C913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FF9F4D-6F47-4FF7-B654-F1ECED31C913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C848890-3E98-4E48-A4C9-C7CDDFECB2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C848890-3E98-4E48-A4C9-C7CDDFECB2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C848890-3E98-4E48-A4C9-C7CDDFECB2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C848890-3E98-4E48-A4C9-C7CDDFECB2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A510BF7C-0969-45D7-A1D4-3D5EAF498C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A510BF7C-0969-45D7-A1D4-3D5EAF498C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A510BF7C-0969-45D7-A1D4-3D5EAF498C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A510BF7C-0969-45D7-A1D4-3D5EAF498C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD6F18E-967D-4F87-82D5-A574846A2416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD6F18E-967D-4F87-82D5-A574846A2416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD6F18E-967D-4F87-82D5-A574846A2416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD6F18E-967D-4F87-82D5-A574846A2416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9841F531-0545-4A7C-8A19-E26A704B27F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9841F531-0545-4A7C-8A19-E26A704B27F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9841F531-0545-4A7C-8A19-E26A704B27F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9841F531-0545-4A7C-8A19-E26A704B27F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
