@@ -15,7 +15,14 @@ namespace PLINQ数据分区
             var partitionenr = new StringPartitioner(GetTypes());
             var parallelQuery = from t in partitionenr.AsParallel()
                                 select EmulateProcessing(t);
-            parallelQuery.ForAll(PrintInfo);
+            try
+            {
+                parallelQuery.ForAll(PrintInfo);
+            }
+            catch(InvalidOperationException ex)
+            {
+                Console.WriteLine("Exception: " + ex.StackTrace);
+            }
 
             Console.ReadKey();
         }

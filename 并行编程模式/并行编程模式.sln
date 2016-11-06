@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "并行编程模式", "并行编程模式\并行编程模式.csproj", "{877BD488-CFC8-406D-B7CB-DE4107CD5447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollection并行管道", "BlockingCollection并行管道\BlockingCollection并行管道.csproj", "{D6C6569F-98C0-44FD-A54A-81652B372C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{0C98E948-C340-4968-91DB-BC646D245E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskLoggerDemo", "TaskLoggerDemo\TaskLoggerDemo.csproj", "{4DE8C0A7-3134-4002-ABD6-406DA28C5A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877BD488-CFC8-406D-B7CB-DE4107CD5447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877BD488-CFC8-406D-B7CB-DE4107CD5447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877BD488-CFC8-406D-B7CB-DE4107CD5447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877BD488-CFC8-406D-B7CB-DE4107CD5447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C6569F-98C0-44FD-A54A-81652B372C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C6569F-98C0-44FD-A54A-81652B372C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C6569F-98C0-44FD-A54A-81652B372C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C6569F-98C0-44FD-A54A-81652B372C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C98E948-C340-4968-91DB-BC646D245E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C98E948-C340-4968-91DB-BC646D245E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C98E948-C340-4968-91DB-BC646D245E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C98E948-C340-4968-91DB-BC646D245E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE8C0A7-3134-4002-ABD6-406DA28C5A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE8C0A7-3134-4002-ABD6-406DA28C5A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE8C0A7-3134-4002-ABD6-406DA28C5A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE8C0A7-3134-4002-ABD6-406DA28C5A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
